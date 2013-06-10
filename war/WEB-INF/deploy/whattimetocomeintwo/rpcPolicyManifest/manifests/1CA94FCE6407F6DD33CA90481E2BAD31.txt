@@ -1,0 +1,2 @@
+serviceClass: net.mtmargala.melissalab.WhatTimeToComeInTwo.client.GreetingService
+path: 3D2C8464B0E982BD0779C23B2FEFDE39.gwt.rpc
